@@ -1,1 +1,2 @@
-studySmart/db.dqlite3
+studySmart/db.sqlite3
+*.sqlite3
